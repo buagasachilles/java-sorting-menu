@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Activity1{
+public class SortingMenu{
 	public static void main(String[] args){
 		final int MAXSIZE = 5;
 		int[] nums = new int[MAXSIZE];
